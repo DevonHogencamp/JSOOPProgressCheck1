@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 55%;
+    text-align: center;
+    background-color: #2e2e2e;
+    padding: 2em;
+}
+
+#toyota{
+    width: 90%;
+    background-color: red;
+    padding: 5px;
+}
+
+#nissan{
+    width: 90%;
+    background-color: blue;
+    padding: 5px;
+}
+
+#subaru{
+    width: 90%;
+    background-color: cyan;
+    padding: 5px;
+}
+
+#mazda{
+    width: 90%;
+    background-color: rgb(140, 0, 91);
+    padding: 5px;
+}
